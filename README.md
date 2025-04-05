@@ -1,4 +1,6 @@
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAycG1wbDRvaXNsMW1pZ2diZGM1Nm1rZ2dnNm9tcmFzZmhwZmZjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdvbRHem1psqd7a0/giphy.gif" width="350px" alt="Coding GIF"/>
+<p align="center">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDAycG1wbDRvaXNsMW1pZ2diZGM1Nm1rZ2dnNm9tcmFzZmhwZmZjMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEdvbRHem1psqd7a0/giphy.gif" width="50%" alt="Coding GIF"/>
+</p>
 
 ### Hi there 👋 I'm Mahdi!
 
